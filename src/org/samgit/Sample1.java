@@ -19,6 +19,8 @@ public static class Phone {
 			p.Phonename();
 			p.Phonemiei();
 			p.Phoneos();
+			
+			System.out.println( p);
 
 		}
 
